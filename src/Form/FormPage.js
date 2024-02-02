@@ -69,6 +69,7 @@ const styles = {
     display: 'flex',
     flexDirection: 'column',
   },
+  
   label: {
     margin: '10px 0',
   },

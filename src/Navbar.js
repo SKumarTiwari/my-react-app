@@ -24,6 +24,7 @@ const Navbar = () => {
     color: 'white',
     textAlign: 'center',
     padding: '14px 16px',
+   
     textDecoration: 'none',
   };
 
